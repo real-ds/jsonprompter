@@ -2,5 +2,3 @@ streamlit
 google-generativeai
 pydantic
 streamlit-pydantic
-google-genai
-python-dotenv 
