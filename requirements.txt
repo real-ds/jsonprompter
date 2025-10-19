@@ -1,6 +1,6 @@
-fastapi==0.104.1
-streamlit==1.38.0
-pydantic==2.5.0
-google-generativeai==0.3.2
-python-dotenv==1.0.0
-google-genai 
+streamlit
+google-generativeai
+pydantic
+streamlit-pydantic
+google-genai
+python-dotenv 
